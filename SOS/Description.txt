@@ -1,0 +1,8 @@
+I developed this project as a way to expand off of the "Hello world" of micro controllers, blinking an LED.
+
+Having little to no experience with micro controllers, and only just learning how to blink an LED, I looked up ways on how to expand the concept, and found a simple, yet more applied challenge.
+
+The goal of this project is to utilize the Onboard LED and the "sleep" function from pythons library, and combined those to blink morse code, specifically, I wanted it to blink SOS.
+
+SOS in Morse code is 3 short signals, 3 long, 3 short, and it loops back. I took advantage of while loops and wrote out the structure of the blinking in segments.
+
