@@ -1,4 +1,4 @@
-This is a work in progress project dump where I am going to be uploading my raspberry pi pico projects
+This is a work in progress project collective, where I am going to be uploading my raspberry pi pico projects
 
 Each project will include:
 
