@@ -1,0 +1,13 @@
+The Greek Goddess Soteria was known as the Goddess of safety and preservation from harm.
+
+Known for being related with other Gods of protection, Zeus, Persephone, etc..., she was seen as a protector of cities, and was worshiped very highly.
+
+The Soteria project came about when I visited Pax River Naval Aviation Museum, and saw on display numerous radar systems that were used in aircraft. I did some more digging and realized that common microcontrollers and sensors could make a "radar" of sorts. The idea of radars has always been fascinating to me, and I have always wanted to know more about them.
+
+During this time, I was starting to learn about micro controllers in my free time, and started looking up projects to do with one. I stumbled upon projects that use sensors and a servo that constantly rotate and is able to provide a return on an object within between 1-13 feet, when met with the right criteria.
+
+My goals for this project are:
+	have a servo (side to side or 360) continuously loop while an ultra sonic sensor sends out waves that would then hopefully give a return signal.
+	I then want to have a screen where it mimicks a radar scanner, that would then return the location of the object.
+
+As of now (11-10-24), I am currently outlining my code, learning how my hardware works, etc...
