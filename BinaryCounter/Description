@@ -1,4 +1,16 @@
-This project was pretty fun for me. I made use of my new breadboard and components and have basically the ultimate pocket size electronics kit
+This project was pretty fun for me. I made use of my new breadboard and components and have basically the ultimate pocket size electronics kit.
+
+I was inspired by a Paul McWhorter "homework" from his Pico W series, where he taught how to take user input via the terminal.
+
+The goal of this project is display a binary number using 4 LED's. Any combination of the four, 1001, 0110, 1101, etc... would all give some sort of binary number
+In this project, I took advantage of the "Input" function, and if and else if statements in order for this to work. The program itself is hard coded to input of either
+1 or 0. I will update this clarify that this is the binary to decimal number converter, and I want to add in an error case, if input != 1 or 0, print error message.
+
+For the number LED, I want to maybe add in a function that would display the equivalent binary number.
+
+I have some more ideas for this project. I want to move this over to my big breadboard, and more LEDS, 8, so that I can then print out letters.
+
+
 
 Project requires:
 
