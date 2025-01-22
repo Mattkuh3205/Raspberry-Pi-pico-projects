@@ -1,0 +1,10 @@
+This project was something that I wanted to do for fun because I thought it would be an interesting project.
+Sometimes, my hands are full, and I cant put stuff down when I get back to my dorm. I thought, why not make this easier to do? This is where the inspiration comes from.
+I am utilizing a few different kinds of servos and a matrix keypad for this project. So far, I've been able to test a few different types of servos, and I've gotten the results I've wanted.
+I initially had to learn how PWM worked with servo's, and this was where my first mistake came about. I was unable to figure out why the servo wouldn't move smoothly. I was able to initially get it to move to certain angles, essentially sweeping from left to right incrementally.
+This was not what I wanted. It did work, but my initial attempt wasn't what I wanted.
+I experimented with different servo's, and found success with a 360 degree servo.
+I do however want to get the PWM to work with the 180 degree servo, and I want to get it to sweep properly, so multiple different kinds of servos can be used. This is a WIP.
+I will however keep with the continuous 360 servo because it works (for now). 
+My next steps are printing the custom servo horn for this project. For the code side, I want to start working on implementing the matrix keypad into the program.
+I want to also run this without a computer connected, and have the code uploaded onto the pico, and have a battery power it.
