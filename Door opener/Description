@@ -1,8 +1,0 @@
-I wanted to build this project because it's a very practical application of servos and a password based system. My inspiration is streamlining some every day annoyances. 
-This is more of a silly project, because it's essentially opening my door for me
-I wanted to utilize a servo with a custom 3d printed control rod, and a matrix keypad
-
-In this project's infancy, the code is very simple, just using PWM. Some initial issues I had is that I was using a SG-90 servo, which was proving a bit difficult.
-  the main issues when using that were I couldn't figure out how to get it to smoothly move from 0 to 180 and back. I had a good prototype, where it would sweep incrementally (0, 45, 90 135, 180, return to 0) instead of a smooth motion
-Another main issue was implementing a for loop for this, and using PWM. Even though in the main loop it would work incrementally, I want to see if I could get it to sweep with the 0-180 servo (sg90)
-Additionally, I need to print my custom arm, and start working on the matrix keyboard
