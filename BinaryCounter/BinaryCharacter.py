@@ -45,14 +45,7 @@ while True:
   
         print("Please enter a binary number: ")   
         
-        user_input1 = input("")
-        user_input2 = input("")
-        user_input3 = input("")
-        user_input4 = input("")
-        user_input5 = input("")
-        user_input6 = input("")
-        user_input7 = input("")
-        user_input8 = input("")
+        user_input1, user_input2, user_input3, user_input4, user_input5, user_input6, user_input7, user_input8 = input('')
         
         if user_input1 == "1":
             p16.on()
